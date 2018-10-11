@@ -10,7 +10,7 @@ script:
 - npm run lint
 - npm run build
 - if [ "$TRAVIS_BRANCH" == "master" ]; then
-    HOSTNAME=//adidas.github.io/ BASE=/adidas-yarn-design-system/ npm run doc
+    HOSTNAME=//adidas.github.io/ BASE=/adidas-yarn-design-system/ npm run doc;
   fi
 
 deploy:
