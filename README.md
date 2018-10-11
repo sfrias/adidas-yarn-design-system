@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/%40adidas%2Fyarn-design-system.svg)](https://www.npmjs.com/package/@adidas/yarn-design-system)
 
-![[](https://travis-ci.com/adidas/adidas-yarn-design-system)]![[](https://api.travis-ci.com/adidas/adidas-yarn-design-system.svg?branch=master)
+![[](https://travis-ci.com/adidas/adidas-yarn-design-system)](https://api.travis-ci.com/adidas/adidas-yarn-design-system.svg?branch=master)
 
 ![](./logo.png)
 
